@@ -1,0 +1,16 @@
+Hi there 👋
+I am Pranjal Shrivastava. I'm a Software Engineer, graduating with a Bachelors in Computer Science in 2024 from Ramaiah Institute of Technology
+<!--
+**pranjshrivastava/pranjshrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...Deep Learning, Computer Vision and Object Oriented Programming
+- 📫 How to reach me: pranjalshrivastava3008@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
