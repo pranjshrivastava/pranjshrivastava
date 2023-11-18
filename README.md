@@ -10,9 +10,9 @@ I'm a Software Engineer, graduating with a Bachelors in Computer Science in 2024
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Deep Learning and Interactive Interfaces
-- 🌱 I’m currently learning Space and Time Efficient Programming
+- 🌱 I’m currently learning Time Efficient and Space Efficient Programming
 - 💬 Ask me about Deep Learning, Computer Vision and Object Oriented Programming
 - 📫 How to reach me: pranjalshrivastava3008@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Did you know? When you are awake, your brain 🧠 generates about 12-25 watts of electricity – which is enough to power a small light bulb.💡
 
