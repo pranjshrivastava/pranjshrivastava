@@ -1,16 +1,18 @@
-Hi there 👋
-I am Pranjal Shrivastava. I'm a Software Engineer, graduating with a Bachelors in Computer Science in 2024 from Ramaiah Institute of Technology
+**<h1>Hi there 👋
+I am Pranjal Shrivastava**</h1>
+![github_pic](https://github.com/pranjshrivastava/pranjshrivastava/assets/102428888/ecc004cf-910c-4be3-a0e0-208edd368649)
+
+I'm a Software Engineer, graduating with a Bachelors in Computer Science in 2024 from Ramaiah Institute of Technology
+
 <!--
 **pranjshrivastava/pranjshrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Deep Learning, Computer Vision and Object Oriented Programming
+- 🔭 I’m currently working on Deep Learning and Interactive Interfaces
+- 🌱 I’m currently learning Space and Time Efficient Programming
+- 💬 Ask me about Deep Learning, Computer Vision and Object Oriented Programming
 - 📫 How to reach me: pranjalshrivastava3008@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: 
+
